@@ -2,6 +2,7 @@ name: '#BeingDad'
 favicon: null
 layout_spectrum: 0.5643791337497532
 typography_spectrum: 0.12834835890680552
+title: '#BeingDad'
 cta:
   domain: null
   bucket: null
