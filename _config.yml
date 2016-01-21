@@ -1,29 +1,18 @@
-name: '#BeingDad'
-favicon: null
-layout_spectrum: 0.5643791337497532
-typography_spectrum: 0.12834835890680552
-title: '#BeingDad'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.3447926377411932
-  lightness: 0.3395594304893166
-  saturation: 0.7633326211944222
-  rhythmicContrast: 0.25790338893420994
+    - '#A8C0A0'
+    - '#184080'
+    - '#508050'
+    - '#40B0C0'
+    - '#A8D0D8'
+  brandStrength: 0.344792
+  lightness: 0.339559
+  rhythmicContrast: 0.257903
+  saturation: 0.897826
+cta: {}
+layout_spectrum: 1
+name: '#BeingDad'
+opengraph: {}
 purpose: []
+typography_spectrum: 0.128348
