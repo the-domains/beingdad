@@ -1,4 +1,20 @@
-analytics: {}
+name: '#BeingDad'
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.128348
+title: Being Dad
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#A8C0A0'
@@ -8,11 +24,6 @@ color:
     - '#A8D0D8'
   brandStrength: 0.344792
   lightness: 0.339559
-  rhythmicContrast: 0.257903
   saturation: 0.897826
-cta: {}
-layout_spectrum: 1
-name: '#BeingDad'
-opengraph: {}
+  rhythmicContrast: 0.257903
 purpose: []
-typography_spectrum: 0.128348
