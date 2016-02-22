@@ -1,7 +1,7 @@
 name: '#BeingDad'
 favicon: null
-layout_spectrum: 0.46509
-typography_spectrum: 0.858108
+layout_spectrum: 1
+typography_spectrum: 0.69203
 title: Being Dad
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#C0D6EE'
-    - '#0691D4'
-    - '#0A0406'
-    - '#BA2914'
-    - '#B79F2C'
-  brandStrength: 0.3125
-  lightness: 0.75
-  saturation: 0.690315
-  rhythmicContrast: 0.5
+    - '#010101'
+    - '#465d89'
+    - '#fefefe'
+    - '#ffc176'
+    - '#9cc3e4'
+  brandStrength: 0.125
+  lightness: 0.6875
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
