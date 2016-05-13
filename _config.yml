@@ -1,7 +1,7 @@
-name: '#BeingDad'
+name: Drabir Here
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.69203
+layout_spectrum: 0.30162
+typography_spectrum: 0.19474
 title: Drabir Here
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#010101'
-    - '#465d89'
-    - '#fefefe'
-    - '#ffc176'
-    - '#9cc3e4'
-  brandStrength: 0.125
-  lightness: 0.6875
-  saturation: 0.25
-  rhythmicContrast: 0.25
+    - '#2790b0'
+    - '#353432'
+    - '#4e4d4a'
+    - '#94ba65'
+    - '#769055'
+  brandStrength: 0.25
+  lightness: 0.375
+  saturation: 0.4375
+  rhythmicContrast: 0.75
 purpose: []
