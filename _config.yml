@@ -2,18 +2,18 @@ analytics:
   google: UA-50843740-2
 color:
   brandColors:
-    - '#001931'
-    - '#E6E5C6'
-    - '#B08F6E'
-    - '#002C3A'
-    - '#707555'
-  brandStrength: 0.125
+    - '#E3E4DF'
+    - '#000100'
+    - '#7C9C3B'
+    - '#3D5732'
+    - '#A3B36A'
+  brandStrength: 0.390765
   lightness: 0.375
   rhythmicContrast: 0.5
-  saturation: 0.25
+  saturation: 0.515765
 cta: {}
-layout_spectrum: 0.729729
+layout_spectrum: 1
 name: Drabir Here
 opengraph: {}
 purpose: []
-typography_spectrum: 0.738738
+typography_spectrum: 0.320945
