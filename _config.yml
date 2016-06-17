@@ -1,5 +1,19 @@
+name: Drabir Here
+favicon: null
+layout_spectrum: 0.9988
+typography_spectrum: 0.62274
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-50843740-2
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#E3E4DF'
@@ -9,11 +23,6 @@ color:
     - '#A3B36A'
   brandStrength: 0.390765
   lightness: 0.375
-  rhythmicContrast: 0.5
   saturation: 0.515765
-cta: {}
-layout_spectrum: 1
-name: Drabir Here
-opengraph: {}
+  rhythmicContrast: 0.5
 purpose: []
-typography_spectrum: 0.320945
