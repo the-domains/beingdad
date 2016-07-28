@@ -1,29 +1,37 @@
-typography_spectrum: 0.8689347440376878
+typography_spectrum: 0.62274
 color:
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  brandStrength: 0.34183450834825635
-  lightness: 0.19325968762859702
-  saturation: 0.43776949075981975
-  rhythmicContrast: 0.8551419028081
+    - '#E3E4DF'
+    - '#000100'
+    - '#7C9C3B'
+    - '#3D5732'
+    - '#A3B36A'
+  brandStrength: 0.390765
+  lightness: 0.375
+  saturation: 0.515765
+  rhythmicContrast: 0.5
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4a5ec81-93ba-45d3-b027-8ea6b143c7ed.png
   type: null
-  appId: null
-layout_spectrum: 0.5945634699892253
+  appId: '104110772971734'
+layout_spectrum: 0.9988
 analytics:
   google: UA-50843740-2
   facebook: null
   twitter: null
+author:
+  name: Drabir
+  email: drabir@gmail.com
+  url: facebook.com/drabir
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a902dfba-1263-48b0-9a60-d77b1d3f4923.png
 name: Drabir Here
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
-title: Drabir Here
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfd13628-e8c9-4101-a8f1-ca857106d3ae.png
+title: Parenting | Cycling | Marketing
 purpose: []
